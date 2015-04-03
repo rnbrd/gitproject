@@ -1,1 +1,1 @@
-%HOMEDRIVE%%HOMEPATH%
+This is a second addition.
