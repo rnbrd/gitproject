@@ -1,3 +1,3 @@
-This is a test file. 
+This is a test file. Conflict-1
 I've performed my first modification of this file.
 Bubba.
